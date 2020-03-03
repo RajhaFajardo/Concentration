@@ -1,2 +1,2 @@
 # Concentration
-App developed during Stanford Course T
+App developed during Stanford Course
